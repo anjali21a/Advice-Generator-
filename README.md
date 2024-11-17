@@ -4,7 +4,7 @@
 An advice generator app using the Advice Slip API.
 
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![Screenshot (251)](https://github.com/user-attachments/assets/33a3d2e0-2cba-4df5-b744-164808cf5443)
 
